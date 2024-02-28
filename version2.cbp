@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="version2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/version2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/version2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Alquiler.h" />
+		<Unit filename="include/ArchivoAlquiler.h" />
+		<Unit filename="include/ArchivoCategoria.h" />
+		<Unit filename="include/ArchivoCliente.h" />
+		<Unit filename="include/ArchivoEmpleado.h" />
+		<Unit filename="include/ArchivoGenero.h" />
+		<Unit filename="include/ArchivoPalabraClave.h" />
+		<Unit filename="include/ArchivoVideo.h" />
+		<Unit filename="include/Categoria.h" />
+		<Unit filename="include/Cliente.h" />
+		<Unit filename="include/Empleado.h" />
+		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/FechaHorario.h" />
+		<Unit filename="include/Genero.h" />
+		<Unit filename="include/Horario.h" />
+		<Unit filename="include/PalabraClave.h" />
+		<Unit filename="include/Persona.h" />
+		<Unit filename="include/cargarCadena.h" />
+		<Unit filename="include/menus.h" />
+		<Unit filename="include/validaciones.h" />
+		<Unit filename="include/video.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Alquiler.cpp" />
+		<Unit filename="src/ArchivoAlquiler.cpp" />
+		<Unit filename="src/ArchivoCategoria.cpp" />
+		<Unit filename="src/ArchivoCliente.cpp" />
+		<Unit filename="src/ArchivoEmpleado.cpp" />
+		<Unit filename="src/ArchivoGenero.cpp" />
+		<Unit filename="src/ArchivoPalabraClave.cpp" />
+		<Unit filename="src/ArchivoVideo.cpp" />
+		<Unit filename="src/Categoria.cpp" />
+		<Unit filename="src/Cliente.cpp" />
+		<Unit filename="src/Empleado.cpp" />
+		<Unit filename="src/Fecha.cpp" />
+		<Unit filename="src/FechaHorario.cpp" />
+		<Unit filename="src/Genero.cpp" />
+		<Unit filename="src/Horario.cpp" />
+		<Unit filename="src/PalabraClave.cpp" />
+		<Unit filename="src/Persona.cpp" />
+		<Unit filename="src/cargarCadena.cpp" />
+		<Unit filename="src/menus.cpp" />
+		<Unit filename="src/validaciones.cpp" />
+		<Unit filename="src/video.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,2436 @@
+# depslib dependency file v1.0
+1696975321 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1696975360 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\cargarcadena.h
+	<clocale>
+
+1697750632 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+
+1697662851 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1697662878 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+
+1697744090 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\archivovideo.h
+	"video.h"
+
+1697744265 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"video.h"
+
+1697034899 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1697034844 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\fecha.h
+	<string>
+
+1697742109 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\fechahorario.cpp
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1697742144 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1697502328 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\horario.h
+	<string>
+
+1697502322 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1697732318 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1697746713 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+
+1697559917 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1697502556 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\cliente.h
+	"Persona.h"
+
+1697502542 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\persona.h
+	"Fecha.h"
+
+1697503560 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+
+1697558909 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\archivocliente.h
+
+1697298443 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\archivocategoria.h
+	"Categoria.h"
+
+1697311075 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\categoria.h
+
+1697560191 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+
+1697560100 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1697409656 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1697330133 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\archivointeres.h
+	"Interes.h"
+
+1697331352 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\interes.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Interes.h"
+	"ArchivoCategoria.h"
+
+1697330430 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\interes.h
+
+1697331277 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\archivointeres.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoInteres.h"
+	"Interes.h"
+
+1697407415 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\genero.h
+
+1697339427 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+
+1697339753 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1697338979 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\archivogenero.h
+	"Genero.h"
+
+1697501401 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\archivoempleado.h
+
+1697560131 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\archivoempleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+
+1697502563 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\empleado.h
+	"Persona.h"
+
+1697559897 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1697741603 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\archivoalquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+
+1697733055 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1697750632 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+
+1697662851 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1696975360 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\cargarcadena.h
+	<clocale>
+
+1697311075 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\categoria.h
+
+1697330430 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\interes.h
+
+1697407415 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\genero.h
+
+1697744090 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\archivovideo.h
+	"video.h"
+
+1697733055 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1697742144 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1697034844 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\fecha.h
+	<string>
+
+1697502328 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\horario.h
+	<string>
+
+1697732318 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1697558909 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\archivocliente.h
+
+1697501401 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\archivoempleado.h
+
+1697298443 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\archivocategoria.h
+	"Categoria.h"
+
+1697330133 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\archivointeres.h
+	"Interes.h"
+
+1697338979 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\archivogenero.h
+	"Genero.h"
+
+1697502556 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\cliente.h
+	"Persona.h"
+
+1697502542 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\persona.h
+	"Fecha.h"
+
+1697751786 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+
+1697741603 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\archivoalquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+
+1697560191 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+
+1697560100 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1697560131 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\archivoempleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+
+1697502563 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\include\empleado.h
+	"Persona.h"
+
+1697339753 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1697331277 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\archivointeres.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoInteres.h"
+	"Interes.h"
+
+1696975321 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1697409656 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1697559917 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1697559897 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1697034899 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1697742109 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\fechahorario.cpp
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1697339427 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+
+1697502322 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1697331352 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\interes.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Interes.h"
+	"ArchivoCategoria.h"
+
+1697503560 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+
+1697662878 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+
+1698264447 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version2\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"video.h"
+
+1698269988 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+
+1697662851 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1696975360 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\cargarcadena.h
+	<clocale>
+
+1697311075 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\categoria.h
+
+1697330430 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\interes.h
+
+1697407415 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\genero.h
+
+1697744090 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\archivovideo.h
+	"video.h"
+
+1698359512 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1697742144 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1697034844 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\fecha.h
+	<string>
+
+1697502328 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\horario.h
+	<string>
+
+1698362620 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1697558909 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\archivocliente.h
+
+1698266077 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\archivoempleado.h
+
+1697298443 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\archivocategoria.h
+	"Categoria.h"
+
+1697330133 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\archivointeres.h
+	"Interes.h"
+
+1697338979 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\archivogenero.h
+	"Genero.h"
+
+1697502556 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\cliente.h
+	"Persona.h"
+
+1697502542 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\persona.h
+	"Fecha.h"
+
+1698362827 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\archivoalquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+
+1697560191 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+
+1697560100 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1697339753 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1697331277 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\archivointeres.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoInteres.h"
+	"Interes.h"
+
+1698266521 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"video.h"
+
+1696975321 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1697409656 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1697559917 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1697559897 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1697502563 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\include\empleado.h
+	"Persona.h"
+
+1697034899 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1697742109 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\fechahorario.cpp
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1697339427 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+
+1697502322 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1697331352 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\interes.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Interes.h"
+	"ArchivoCategoria.h"
+
+1697503560 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+
+1697662878 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+
+1698362806 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+
+1698266357 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 opciones de carga de alquiler\src\archivoempleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+
+1698798895 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+
+1697662851 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1696975360 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\cargarcadena.h
+	<clocale>
+
+1697311075 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\categoria.h
+
+1697330430 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\interes.h
+
+1697407415 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\genero.h
+
+1697744090 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\archivovideo.h
+	"video.h"
+
+1698359512 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1698797121 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1698625244 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\fecha.h
+	<string>
+
+1697502328 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\horario.h
+	<string>
+
+1698796368 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1697558909 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\archivocliente.h
+
+1698266077 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\archivoempleado.h
+
+1697298443 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\archivocategoria.h
+	"Categoria.h"
+
+1697330133 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\archivointeres.h
+	"Interes.h"
+
+1697338979 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\archivogenero.h
+	"Genero.h"
+
+1697502556 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\cliente.h
+	"Persona.h"
+
+1697502542 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\persona.h
+	"Fecha.h"
+
+1698796981 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\archivoalquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+
+1697560191 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+
+1697560100 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1698266357 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\archivoempleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+
+1697502563 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\include\empleado.h
+	"Persona.h"
+
+1697339753 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1697331277 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\archivointeres.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoInteres.h"
+	"Interes.h"
+
+1698266521 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"video.h"
+
+1696975321 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1697559917 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1697559897 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1698797153 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\fechahorario.cpp
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1697502322 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1697503560 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+
+1698622609 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1698625217 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1698798227 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+
+1698622466 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+
+1698622442 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\interes.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Interes.h"
+	"ArchivoCategoria.h"
+
+1698622234 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - 2 devoluciones con intereses y carga- 1 registro\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+
+1698846879 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoInteres.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+
+1698842796 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1696975360 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\cargarcadena.h
+	<clocale>
+
+1698803781 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\categoria.h
+
+1697330430 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\interes.h
+
+1697407415 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\genero.h
+
+1697744090 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\archivovideo.h
+	"video.h"
+
+1698849439 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1698797121 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1698625244 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\fecha.h
+	<string>
+
+1697502328 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\horario.h
+	<string>
+
+1698845259 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1697558909 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\archivocliente.h
+
+1698266077 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\archivoempleado.h
+
+1698806014 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\archivocategoria.h
+	"Categoria.h"
+
+1698804135 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\archivointeres.h
+	"Interes.h"
+
+1698847983 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\archivogenero.h
+	"Genero.h"
+
+1697502556 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\cliente.h
+	"Persona.h"
+
+1697502542 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\persona.h
+	"Fecha.h"
+
+1698849206 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+
+1698849423 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\archivoalquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+
+1698807910 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+
+1697560100 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1698266357 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\archivoempleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+
+1697502563 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\include\empleado.h
+	"Persona.h"
+
+1697339753 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1697331277 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\archivointeres.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoInteres.h"
+	"Interes.h"
+
+1698807686 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"video.h"
+
+1696975321 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1698851469 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1697559917 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1697559897 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1698625217 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1698797153 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\fechahorario.cpp
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1698622466 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+
+1697502322 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1698622442 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\interes.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Interes.h"
+	"ArchivoCategoria.h"
+
+1697503560 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+
+1698848382 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clases sin composicion de archivos\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+
+1698953077 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+	"menus.h"
+
+1699143366 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1698869224 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\cargarcadena.h
+	<clocale>
+
+1698950742 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\categoria.h
+
+1697330430 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\interes.h
+
+1698950210 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\genero.h
+
+1697744090 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\archivovideo.h
+	"video.h"
+
+1699148200 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1698797121 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1698625244 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\fecha.h
+	<string>
+
+1697502328 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\horario.h
+	<string>
+
+1699148042 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1697558909 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\archivocliente.h
+
+1698266077 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\archivoempleado.h
+
+1698806014 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\archivocategoria.h
+	"Categoria.h"
+
+1698804135 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\archivointeres.h
+	"Interes.h"
+
+1698878569 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\archivogenero.h
+	"Genero.h"
+
+1698950447 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\cliente.h
+	"Persona.h"
+
+1697502542 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\persona.h
+	"Fecha.h"
+
+1699064291 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+
+1698956262 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\archivoalquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+
+1698961555 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+
+1698873466 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1698873243 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\archivoempleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+
+1698950420 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\empleado.h
+	"Persona.h"
+
+1698878780 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1699143041 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"video.h"
+
+1698869243 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1698950788 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1698950516 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1698950543 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1698625217 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1698797153 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\fechahorario.cpp
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1698950290 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+
+1697502322 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1698878115 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1698953237 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"validaciones.h"
+
+1698869571 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\validaciones.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+
+1698869698 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\validaciones.h
+	"validaciones.h"
+
+1698891865 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\include\menus.h
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+
+1698958165 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - validaciones\src\menus.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+
+1701833476 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+	"menus.h"
+	"validaciones.h"
+
+1701232010 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1698869224 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\cargarcadena.h
+	<clocale>
+
+1702086149 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\categoria.h
+
+1697330430 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\interes.h
+
+1698950210 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\genero.h
+
+1702090084 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\archivovideo.h
+	"video.h"
+
+1701638149 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1700695647 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1698625244 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\fecha.h
+	<string>
+
+1697502328 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\horario.h
+	<string>
+
+1701215334 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1701400644 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\archivocliente.h
+	"Cliente.h"
+
+1701398632 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\archivoempleado.h
+	"Empleado.h"
+
+1701227799 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\archivocategoria.h
+	"Categoria.h"
+
+1698878569 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\archivogenero.h
+	"Genero.h"
+
+1698950447 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\cliente.h
+	"Persona.h"
+
+1701389110 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\persona.h
+	"Fecha.h"
+
+1700762407 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\menus.h
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+
+1701215610 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+
+1702089943 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+
+1701400954 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1701400409 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\archivoempleado.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1698950420 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\empleado.h
+	"Persona.h"
+
+1701391758 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1702258170 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"video.h"
+	"ArchivoPalabraClave.h"
+	"validaciones.h"
+	"ArchivoGenero.h"
+
+1698869243 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1702086139 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1698950516 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1698950543 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1698625217 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1700751033 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\fechahorario.cpp
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1698950290 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+
+1697502322 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1701389125 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1698869698 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\validaciones.h
+	"validaciones.h"
+
+1698869571 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\validaciones.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+
+1701994418 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"validaciones.h"
+
+1699884143 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\logline.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"LogLine.h"
+	"cargarCadena.h"
+
+1699884085 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\logline.h
+
+1702258008 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\menus.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"ArchivoPalabraClave.h"
+	"validaciones.h"
+
+1702089539 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\archivoalquiler.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+
+1702081200 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\archivopalabraclave.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoPalabraClave.h"
+	"PalabraClave.h"
+	"ArchivoVideo.h"
+
+1702057777 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\archivopalabraclave.h
+	"PalabraClave.h"
+	"video.h"
+
+1701032355 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\include\palabraclave.h
+
+1701032302 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - clase alg de recomendacion\src\palabraclave.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	"PalabraClave.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1708832954 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+	"menus.h"
+	"validaciones.h"
+
+1708489731 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1698869224 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\cargarcadena.h
+	<clocale>
+
+1708488940 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\categoria.h
+
+1697330430 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\interes.h
+
+1708489317 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\genero.h
+
+1709064068 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\archivovideo.h
+	"video.h"
+
+1708832456 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1708489269 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1708489162 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\fecha.h
+	<string>
+
+1708489341 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\horario.h
+	<string>
+
+1708552237 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1708917431 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\archivocliente.h
+	"Cliente.h"
+
+1708488456 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\cliente.h
+	"Persona.h"
+
+1709006284 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\persona.h
+	"Fecha.h"
+
+1708917272 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\archivoempleado.h
+	"Empleado.h"
+
+1708489096 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\empleado.h
+	"Persona.h"
+
+1708908582 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\archivocategoria.h
+	"Categoria.h"
+
+1708901576 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\archivogenero.h
+	"Genero.h"
+
+1709005090 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\menus.h
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+
+1709069888 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\validaciones.h
+	"validaciones.h"
+
+1709065168 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	"validaciones.h"
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+
+1709012397 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\archivoalquiler.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"ArchivoCliente.h"
+	"validaciones.h"
+
+1708908685 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709069174 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709069292 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\archivoempleado.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709075564 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1709073522 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\archivopalabraclave.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoPalabraClave.h"
+	"PalabraClave.h"
+	"ArchivoVideo.h"
+
+1708758163 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\archivopalabraclave.h
+	"PalabraClave.h"
+	"video.h"
+
+1708731504 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\include\palabraclave.h
+
+1708043240 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1709074570 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1708395212 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1708043259 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1698625217 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1709050039 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\fechahorario.cpp
+	<iostream>
+	<vector>
+	<string>
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1709074792 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1697502322 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1709074888 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\menus.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"ArchivoPalabraClave.h"
+	"validaciones.h"
+
+1708043293 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\palabraclave.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"PalabraClave.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709065071 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709069906 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\validaciones.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<limits>
+	<cctype>
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+
+1709070348 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"validaciones.h"
+
+1709073355 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - backups\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"video.h"
+	"ArchivoPalabraClave.h"
+	"validaciones.h"
+	"ArchivoGenero.h"
+
+1709084829 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"Cliente.h"
+	"menus.h"
+	"validaciones.h"
+
+1709079649 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+	"Categoria.h"
+	"Interes.h"
+	"Genero.h"
+
+1698869224 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\cargarcadena.h
+	<clocale>
+
+1709086127 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\categoria.h
+
+1697330430 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\interes.h
+
+1708489317 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\genero.h
+
+1709079228 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\archivovideo.h
+	"video.h"
+
+1709146194 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\archivoalquiler.h
+	"FechaHorario.h"
+	"Alquiler.h"
+
+1708489269 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\fechahorario.h
+	"Fecha.h"
+	"Horario.h"
+
+1708489162 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\fecha.h
+	<string>
+
+1708489341 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\horario.h
+	<string>
+
+1709085479 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\alquiler.h
+	"Fecha.h"
+	"FechaHorario.h"
+	"Horario.h"
+
+1709087036 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\archivocliente.h
+	"Cliente.h"
+
+1708488456 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\cliente.h
+	"Persona.h"
+
+1709087152 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\persona.h
+	"Fecha.h"
+
+1708917272 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\archivoempleado.h
+	"Empleado.h"
+
+1708489096 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\empleado.h
+	"Persona.h"
+
+1709086426 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\archivocategoria.h
+	"Categoria.h"
+
+1708901576 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\archivogenero.h
+	"Genero.h"
+
+1709005090 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\menus.h
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+
+1709091510 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\validaciones.h
+	"validaciones.h"
+
+1709085133 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\alquiler.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	"validaciones.h"
+	"cargarCadena.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"Horario.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+
+1709146153 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\archivoalquiler.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoAlquiler.h"
+	"Alquiler.h"
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"ArchivoCliente.h"
+	"validaciones.h"
+
+1709133724 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\archivocategoria.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoCategoria.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709069174 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\archivocliente.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709069292 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\archivoempleado.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoEmpleado.h"
+	"Empleado.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709075564 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\archivogenero.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoGenero.h"
+	"Genero.h"
+
+1709073522 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\archivopalabraclave.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoPalabraClave.h"
+	"PalabraClave.h"
+	"ArchivoVideo.h"
+
+1708758163 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\archivopalabraclave.h
+	"PalabraClave.h"
+	"video.h"
+
+1708731504 c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\include\palabraclave.h
+
+1709078888 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"video.h"
+	"ArchivoPalabraClave.h"
+	"validaciones.h"
+	"ArchivoGenero.h"
+
+1708043240 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1709086062 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\categoria.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Categoria.h"
+	"cargarCadena.h"
+
+1708395212 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Cliente.h"
+	"Persona.h"
+
+1708043259 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\empleado.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Empleado.h"
+
+1698625217 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\fecha.cpp
+	<ctime>
+	<iostream>
+	"Fecha.h"
+
+1709050039 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\fechahorario.cpp
+	<iostream>
+	<vector>
+	<string>
+	"FechaHorario.h"
+	"Fecha.h"
+	"Horario.h"
+
+1709074792 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\genero.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+	<string.h>
+	"Genero.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1697502322 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\horario.cpp
+	"Horario.h"
+	<ctime>
+
+1708043293 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\palabraclave.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"PalabraClave.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709087081 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"Persona.h"
+	"cargarCadena.h"
+	"validaciones.h"
+
+1709132416 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\validaciones.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<limits>
+	<cctype>
+	<sstream>
+	"ArchivoVideo.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+
+1709079901 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"validaciones.h"
+
+1709146663 source:c:\francisco universidad\2023\proyectocompartidoa-angel19-10-2023\version3 - depurar\src\menus.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+	"ArchivoVideo.h"
+	"ArchivoAlquiler.h"
+	"ArchivoCliente.h"
+	"ArchivoEmpleado.h"
+	"ArchivoCategoria.h"
+	"ArchivoGenero.h"
+	"Alquiler.h"
+	"ArchivoPalabraClave.h"
+	"validaciones.h"
+
